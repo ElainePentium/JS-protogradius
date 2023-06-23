@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgrey;
+    height: 100vh;
+}
+
+.shuttle {
+    height: 50px;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+}
+
+.laser {
+    height: 50px;
+    position: absolute;
+    bottom: 70px;
+    left: 50%;
+}
